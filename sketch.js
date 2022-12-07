@@ -10,7 +10,7 @@ let ready= false;
 var n = 0 // so that the array knows 
 
 //text
-let str = 'MEDINA RIVER PRESS TO BEGIN MEDINA RIVER PRESS TO BEGIN ';
+let str = 'NARRAGANSETT BEACH PRESS TO BEGIN NARRAGANSETT BEACH PRESS TO BEGIN ';
 let rotateSpeed=.006;
 let startAngle =    0;     // angle where text should start
 let distanceAngle = 360;   // how far (in degrees) text will go
